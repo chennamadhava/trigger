@@ -15,6 +15,7 @@ public class Addition {
 		// TODO Auto-generated method stub
 		Addition ad=new Addition();
 		ad.additionOfTwoNumbers();
+		System.out.println("This is sai trigger");
 	}
 
 }
