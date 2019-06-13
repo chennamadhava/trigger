@@ -16,6 +16,7 @@ public class Addition {
 		Addition ad=new Addition();
 		ad.additionOfTwoNumbers();
 		System.out.println("This is sai trigger");
+		System.out.println("This is nag trigger");
 	}
 
 }
